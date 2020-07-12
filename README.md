@@ -1,2 +1,2 @@
 # Find-your-answer
-Show how works ARIMA Model for Time Series
+Find whatever machine learning models in the practice for your company
